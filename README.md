@@ -34,6 +34,15 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker">
 </p>
 
+<p>Here are some screenshots of my previous commercial contribution activity:</p>
+
+![Contribution Graph 2021](assets/Screenshot_2021.png)
+![Contribution Graph 2022](assets/Screenshot_2022.png)
+![Contribution Graph 2023](assets/Screenshot_2023.png)
+
+- repository is private and owned by organization, the link to my commercial gitHub account: 
+<a href="https://github.com/ElizabethKudelia">https://github.com/ElizabethKudelia</a>
+
 <!---
 ElizabethKudelia/ElizabethKudelia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
